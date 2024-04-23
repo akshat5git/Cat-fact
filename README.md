@@ -1,2 +1,2 @@
 # Cat-fact
-Demo Repo.
+this is a demo Repo for git and github class.
